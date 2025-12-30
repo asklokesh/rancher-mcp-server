@@ -1,5 +1,7 @@
 # Rancher MCP Server
 
+<!-- mcp-name: io.github.asklokesh/rancher-mcp-server -->
+
 <div align="center">
 
 # Rancher Mcp Server
