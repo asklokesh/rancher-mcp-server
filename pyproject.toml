@@ -28,3 +28,6 @@ dev = [
 
 [project.scripts]
 rancher-mcp = "rancher_mcp.server:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/rancher_mcp"]
